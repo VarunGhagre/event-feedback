@@ -9,7 +9,7 @@ const Home = () => {
             Event Feedback Platform
           </span>
 
-          <h1 className="text-5xl font-bold leading-tight tracking-tight text-gray-900 md:text-6xl">
+          <h1 className="text-4xl font-bold leading-tight tracking-tight text-slate-900 sm:text-5xl md:text-6xl">
             Your Feedback
             <span className="block text-blue-600">
               Makes Events Better
@@ -21,7 +21,7 @@ const Home = () => {
             create better experiences for everyone.
           </p>
 
-          <div className="mt-8 flex justify-center gap-4">
+          <div className="mt-8 flex flex-col justify-center gap-3 sm:flex-row sm:gap-4">
             <Link
               to="/events"
               className="rounded-lg bg-blue-600 px-6 py-3 font-semibold text-white shadow-lg shadow-blue-200 transition hover:bg-blue-700"
