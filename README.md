@@ -1,6 +1,6 @@
 # Event Feedback Management System
 
-A full-stack web application for managing event feedback. Users can explore upcoming events, submit feedback with ratings, and view submitted feedback
+A full-stack web application for managing event feedback. Users can explore upcoming events, submit feedback with ratings, and view submitted feedback.
 
 ## 🚀 Features
 
